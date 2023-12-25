@@ -75,6 +75,7 @@ main {
     height: 500px;
     border: 5px solid BLACK;
     background-color:aliceblue;
+    text-decoration: none;
 }
 .container {
     display: flex;
@@ -208,7 +209,7 @@ main {
       align-items: center;
       display: inline-block;
       margin:70px;
-      text-decoration: none;
+
     
   }
   .o{
