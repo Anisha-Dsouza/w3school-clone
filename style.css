@@ -215,7 +215,6 @@ main {
     
   }
   .o{
-    /* background-color:rgb(21, 21, 48); */
     display: flex;
     justify-content: center;
     align-items: center;
